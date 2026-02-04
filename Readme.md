@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 **I’m currently working as:**  <br>Backend Developer at Nector Foods Pvt. Ltd.<br><br>👯 **I’m looking to collaborate on:**  <br>Fullstack projects<br><br>🌱 **I’m currently learning:**  <br>Node JS<br><br>💬 **Ask me about:**  <br>JavaScript, Php, Laravel, Node.js, MySQL, and any general software development questions.<br><br>⚡ **Fun fact:**  <br>I love creating content.
+🔭 **I’m currently working as:**  <br>CEO At Codeforge Developers IT Solutions Pvt Ltd<br><br>👯 **I’m looking to collaborate on:**  <br>Fullstack projects<br><br>🌱 **I’m currently learning:**  <br>Node JS<br><br>💬 **Ask me about:**  <br>JavaScript, Php, Laravel, Node.js, MySQL, and any general software development questions.<br><br>⚡ **Fun fact:**  <br>I love creating content.
 
 
 ## 🌐 Socials:
@@ -19,4 +19,5 @@
 [![](https://visitcount.itsvg.in/api?id=kingSPARROW&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
 
