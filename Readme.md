@@ -1,8 +1,20 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrng815IZ/giphy.gif" width="30px"/> Welcome to My Profile!
+<div align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrng815IZ/giphy.gif" width="40px" style="animation: bounce 2s infinite;"/>
+  
+  # Welcome to My Profile! 
+  
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=00FF00&center=true&vCenter=true&width=800&lines=Sr+Developer+at+Codeforge+Solutions;Full-Stack+Developer;Tech+Innovator;Problem+Solver;Cloud+Architect" alt="Typing SVG" />
+</div>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=500&color=00FF00&center=true&vCenter=true&width=600&lines=Sr+Developer+at+Codeforge+Solutions;Full-Stack+Developer;Tech+Innovator;Problem+Solver" alt="Typing SVG" />
-</p>
+---
+
+---
+
+<div align="center">
+  <img src="https://media.giphy.com/media/Q8rfX2L3TkV44/giphy.gif" width="80px" alt="coding"/>
+  <img src="https://media.giphy.com/media/SvckXWbyjwMPy/giphy.gif" width="80px" alt="dev"/>
+  <img src="https://media.giphy.com/media/SWoRKslHVtqjS/giphy.gif" width="80px" alt="tech"/>
+</div>
 
 ---
 
@@ -24,9 +36,14 @@ JavaScript, PHP, Laravel, Node.js, MySQL, TypeScript, Next.js, and general softw
 I love creating content and building scalable solutions that make an impact! ðŸŽ¨âœ¨<br><br>
 
 ðŸ“§ **Sales & Partnerships:**  <br>
-<a href="https://thecodeforge.in" target="_blank">
-  <img src="https://img.shields.io/badge/Contact-thecodeforge.in-FF6B6B?style=for-the-badge&logo=web&logoColor=white" alt="Codeforge Website"/>
-</a>
+<p align="center">
+  <a href="https://thecodeforge.in" target="_blank">
+    <img src="https://img.shields.io/badge/Contact-thecodeforge.in-FF6B6B?style=for-the-badge&logo=web&logoColor=white" alt="Codeforge Website" style="animation: pulse 2s infinite, glow 2s infinite;"/>
+  </a>
+</p>
+<p align="center">
+  <img src="https://media.giphy.com/media/LnQjwuY2Kctur2Sr9S/giphy.gif" width="60px" alt="email-animation"/>
+</p>
 
 ---
 
@@ -45,6 +62,14 @@ I love creating content and building scalable solutions that make an impact! ðŸŽ
 
 ---
 
+---
+
+<div align="center">
+  <img src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" width="100px" alt="tech-stack"/>
+</div>
+
+---
+
 ## ðŸ’» Tech Stack:
 
 **Languages:**  
@@ -58,6 +83,14 @@ I love creating content and building scalable solutions that make an impact! ðŸŽ
 
 **DevOps & Tools:**  
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white)
+
+---
+
+---
+
+<div align="center">
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="60px" alt="stats-loading"/>
+</div>
 
 ---
 
@@ -85,6 +118,14 @@ I love creating content and building scalable solutions that make an impact! ðŸŽ
 
 ---
 
+---
+
+<div align="center">
+  <img src="https://media.giphy.com/media/g9GWuaMLvN2I8/giphy.gif" width="80px" alt="rocket"/>
+</div>
+
+---
+
 ## ðŸŽ¯ What's Next:
 
 - ðŸš€ Building enterprise-scale solutions at **Codeforge**
@@ -93,6 +134,12 @@ I love creating content and building scalable solutions that make an impact! ðŸŽ
 - ðŸ“ž **Get in touch:** [thecodeforge.in](https://thecodeforge.in)
 
 ---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="50px" alt="celebration"/>
+  <img src="https://media.giphy.com/media/xT9IgEx8SbIU9EzOWk/giphy.gif" width="50px" alt="party"/>
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="50px" alt="celebration"/>
+</p>
 
 <p align="center">
   <img src="https://visitcount.itsvg.in/api?id=kingSPARROW&icon=0&color=0" alt="Profile Views"/>
