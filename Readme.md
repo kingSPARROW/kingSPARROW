@@ -11,9 +11,9 @@
 ---
 
 <div align="center">
-  <img src="https://media.giphy.com/media/Q8rfX2L3TkV44/giphy.gif" width="80px" alt="coding"/>
-  <img src="https://media.giphy.com/media/SvckXWbyjwMPy/giphy.gif" width="80px" alt="dev"/>
-  <img src="https://media.giphy.com/media/SWoRKslHVtqjS/giphy.gif" width="80px" alt="tech"/>
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="80px" alt="coding"/>
+  <img src="https://media4.giphy.com/media/QssGEFqdoBKq7nNmapen/giphy.gif" width="80px" alt="dev"/>
+  <img src="https://media2.giphy.com/media/l3q2K5jinAlChoCLS/giphy.gif" width="80px" alt="tech"/>
 </div>
 
 ---
@@ -42,7 +42,7 @@ I love creating content and building scalable solutions that make an impact! ðŸŽ
   </a>
 </p>
 <p align="center">
-  <img src="https://media.giphy.com/media/LnQjwuY2Kctur2Sr9S/giphy.gif" width="60px" alt="email-animation"/>
+  <img src="https://media2.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="60px" alt="email-animation"/>
 </p>
 
 ---
@@ -65,7 +65,7 @@ I love creating content and building scalable solutions that make an impact! ðŸŽ
 ---
 
 <div align="center">
-  <img src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" width="100px" alt="tech-stack"/>
+  <img src="https://media3.giphy.com/media/kdFc8fubgS1ff1Ek5e/giphy.gif" width="100px" alt="tech-stack"/>
 </div>
 
 ---
@@ -89,7 +89,7 @@ I love creating content and building scalable solutions that make an impact! ðŸŽ
 ---
 
 <div align="center">
-  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="60px" alt="stats-loading"/>
+  <img src="https://media1.giphy.com/media/l0HlDtDjKGbFT4nHi/giphy.gif" width="60px" alt="stats-loading"/>
 </div>
 
 ---
@@ -121,7 +121,7 @@ I love creating content and building scalable solutions that make an impact! ðŸŽ
 ---
 
 <div align="center">
-  <img src="https://media.giphy.com/media/g9GWuaMLvN2I8/giphy.gif" width="80px" alt="rocket"/>
+  <img src="https://media1.giphy.com/media/1aSiyvZc9sHF2R7XBz/giphy.gif" width="80px" alt="rocket"/>
 </div>
 
 ---
@@ -136,9 +136,9 @@ I love creating content and building scalable solutions that make an impact! ðŸŽ
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="50px" alt="celebration"/>
-  <img src="https://media.giphy.com/media/xT9IgEx8SbIU9EzOWk/giphy.gif" width="50px" alt="party"/>
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="50px" alt="celebration"/>
+  <img src="https://media1.giphy.com/media/3o7TKB3X4yv5u5pIPy/giphy.gif" width="50px" alt="celebration"/>
+  <img src="https://media0.giphy.com/media/g9GWuaMLvN2I8/giphy.gif" width="50px" alt="party"/>
+  <img src="https://media1.giphy.com/media/3o7TKB3X4yv5u5pIPy/giphy.gif" width="50px" alt="celebration"/>
 </p>
 
 <p align="center">
